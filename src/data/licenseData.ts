@@ -64,7 +64,7 @@ export const licenseVerificationData: VerificationData = {
       id: 'address',
       iconName: 'map-pin',
       label: 'ঠিকানা',
-      value: '১ নং, ইসমাঈল টাওয়ার, মেডিকেল রোড, ভাতালিয়া, সিলেট।',
+      value: 'জল্লারপার, সিলেট',
     },
     {
       id: 'expiry-date',
