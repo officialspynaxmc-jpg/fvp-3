@@ -1,0 +1,19 @@
+.main-container {
+  min-height: calc(100vh - 61px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2.25rem 1rem 3.5rem 1rem;
+  background-color: var(--bg-page);
+  transition: background-color 0.2s ease;
+}
+
+.cards-wrapper {
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.35rem;
+}

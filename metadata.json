@@ -1,0 +1,6 @@
+{
+  "name": "Sylhet City Corporation - Trade License Verification",
+  "description": "সিলেট সিটি কর্পোরেশনের ট্রেড লাইসেন্স ও সনদ যাচাইকরণ পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
