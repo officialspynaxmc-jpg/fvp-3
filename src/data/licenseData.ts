@@ -51,7 +51,7 @@ export const licenseVerificationData: VerificationData = {
       id: 'business-type',
       iconName: 'tag',
       label: 'ব্যবসায়ে ধরন',
-      value: 'টেইলার্স',
+      value: 'মুদি',
       subValue: 'মুদি',
     },
     {
